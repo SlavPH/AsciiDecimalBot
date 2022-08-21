@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"You can change this values"
+"You can change these values"
 
 Token = "Your token here"
 Result = "Value: {}\nASCII: {}"
