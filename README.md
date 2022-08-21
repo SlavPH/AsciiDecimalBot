@@ -37,3 +37,8 @@
 # Social Media
 [Instagram](https://instagram.com/theslavph)                                                                                
 [Telegram](https://telegram.me/slavph)                                           
+
+# PyTelegramBotAPI                        
+https://github.com/eternnoir/pyTelegramBotAPI 
+
+> Thanks 
