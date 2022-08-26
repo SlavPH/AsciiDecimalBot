@@ -1,5 +1,5 @@
 # AsciiDecimalBot
->Telegram bot to convert a character to decimal value using PyTelegramBotAPI                           
+>Telegram bot to convert a character to decimal value using **telebot**                           
 
 # Requirements                      
 **[1]** `PyTelegramBotAPI`                                                   
