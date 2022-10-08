@@ -32,11 +32,7 @@
 **[3]** `git clone https://github.com/SlavPH/AsciiDecimalBot`                                                              
 **[4]** `cd AsciiDecimalBot`               
 **[5]** `chmod +x *`                  
-**[6]** `./run.py`                                        
-
-# Social Media
-[Instagram](https://instagram.com/theslavph)                                                                                
-[Telegram](https://telegram.me/theslavph)                                           
+**[6]** `./run.py`                                                                                 
 
 # PyTelegramBotAPI                        
 https://github.com/eternnoir/pyTelegramBotAPI 
